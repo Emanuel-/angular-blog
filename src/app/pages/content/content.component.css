@@ -1,5 +1,5 @@
 .container__content{
-  border: 2px solid white;
+
   width: 100%;
   height: 100vh;
   display: flex;
@@ -19,8 +19,12 @@
 
 .content__description{
   margin-top: 15px;
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 .content__description > p{
+  margin-top: 15px;
   color: rgb(181, 176, 176);
+  text-align: center;
 }
